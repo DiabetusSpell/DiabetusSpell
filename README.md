@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellow stranger I'm Spell</h1>
+<h1 align="center">Hello fellow stranger, I'm Spell</h1>
 <h3 align="center">A shitty teen programmer from Portugal</h3>
 
 <h3 align="left">Connect with me:</h3>
